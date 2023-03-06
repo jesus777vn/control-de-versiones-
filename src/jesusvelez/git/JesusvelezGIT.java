@@ -17,7 +17,7 @@ public class JesusvelezGIT {
         // TODO code application logic here
     
         int valor;
-        valor = 20;
+        valor = 3;
         System.out.println(  +valor);
       
     }
