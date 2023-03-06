@@ -18,7 +18,7 @@ public class JesusvelezGIT {
     
         
         contador recuenta = new contador();
-        recuenta.setCuenta(5);
+        recuenta.setCuenta(9);
         System.out.println(         +recuenta.getCuenta());
         
         
