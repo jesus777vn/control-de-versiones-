@@ -16,9 +16,12 @@ public class JesusvelezGIT {
     public static void main(String[] args) {
         // TODO code application logic here
     
-        int valor;
-        valor = 111;
-        System.out.println(  +valor);
+        
+        contador recuenta = new contador();
+        recuenta.setCuenta(5);
+        System.out.println(         +recuenta.getCuenta());
+        
+        
       
     }
     
